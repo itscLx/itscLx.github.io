@@ -50,6 +50,11 @@ Color schemes for Text and boxes.
 .open-green
 {color:#fff;background-color: #70AD47}
 .open-navy
-{color:#fff;background-color: #454746}
+{color:#fff !important;
+    
+    background-color: #454746 !important;
+}
 .open-text
-{color:#ED7D31;background-color: #ffffff}
+{color:#ED7D31 !important;
+    background-color: #ffffff !important;
+}
